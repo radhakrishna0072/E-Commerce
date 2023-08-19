@@ -40,7 +40,7 @@ exit
   # _rm –rf  index.html_
 
 10) Clone the repository
-# _git clone https://github.com/bvenkydevops/E-Commerce-project.git_
+# _git clone https://github.com/bvenkydevops/E-Commerce.git_
 
 11) To connect MYSQL server using CLI
  # _mysql -u root –p_
