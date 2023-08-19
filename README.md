@@ -1,4 +1,4 @@
-# Laravel E-Commerce Project
+# **Laravel E-Commerce Project**
 1) Update the EC2 instance
 2) Install php & check version using
 # _sudo apt install php -y_ 
