@@ -124,7 +124,7 @@ Cd ~
 29) Laravel will execute any pending migrations that haven't been run yet by using
 #  php artisan migrate
 
-30) To restart the Apache HTTP Serve
+30) To restart the Apache HTTP Server
   #  sudo service apache2 restart
 
 31) Update the security group with “All traffic” in Inbound rules & copy the EC2 instance public IP and past in Chrome. Finally get an output like below 
